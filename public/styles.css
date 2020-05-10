@@ -1,0 +1,37 @@
+body {
+	background-color: #000000;
+	color: #ffffff;
+}
+
+h1 {
+	font-family: 'Alegreya' ;
+	font-size: 32px;
+	color: #ffffff;
+}
+
+body {
+	font-family: 'Source Sans Pro' ;
+	margin-left: 10%;
+	margin-right: 10%;
+	text-align: justify;
+	line-height: 1.7;
+	font-size: 18px;
+}
+
+input {
+	font-size: 18px;
+	text-align: center;
+}
+
+button {
+	font-size: 18px;
+	color: #ffffff;
+}
+
+#generate {
+	background-color: #0000ff;
+}
+
+#copy {
+	background-color: #00ff00;
+}
